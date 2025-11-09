@@ -10,10 +10,12 @@ CONFIG += c++17
 
 SOURCES += \
     main.cpp \
-    midtermui.cpp
+    midtermui.cpp \
+    ooxxbutton.cpp
 
 HEADERS += \
-    midtermui.h
+    midtermui.h \
+    ooxxbutton.h
 
 FORMS += \
     midtermui.ui
